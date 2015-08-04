@@ -1,0 +1,15 @@
+{
+  "name": "stand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "menubar": "^2.0.17",
+    "node-notifier": "^4.2.3"
+  }
+}
