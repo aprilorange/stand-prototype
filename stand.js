@@ -1,9 +1,9 @@
 var menubar = require('menubar')
 
 var mb = menubar({
-	dir: './',
-	preloadWindow: true,
-	icon: 'icon.png'
+  dir: './',
+  preloadWindow: true,
+  icon: 'icon.png'
 })
 
 mb.on('ready', function ready () {

@@ -1,6 +1,6 @@
 body {
-	margin: 0;
-	font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  margin: 0;
+  font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
 }
 * {
   -webkit-box-sizing: border-box;
@@ -8,40 +8,40 @@ body {
   box-sizing: border-box;
 }
 .red-block {
-	background-color: #C75C5C;
-	color: white;
+  background-color: #C75C5C;
+  color: white;
 }
 #minutes {
-	height: 70vmin;
-	padding: 100px;
-	float: left;
-	font-size: 60px;
-	width: 100%;
-	text-align: center;
+  height: 70vmin;
+  padding: 100px;
+  float: left;
+  font-size: 60px;
+  width: 100%;
+  text-align: center;
 }
 .extra-block {
-	height: 30vmin;
-	line-height: 30vmin;
-	text-align: center;
+  height: 30vmin;
+  line-height: 30vmin;
+  text-align: center;
 }
 .toggle-button {
-	border: 1px solid #e2e2e2;
-	background-color: #eee;
-	padding: 15px 30px;
-	border-radius: 3px;
-	font-size: 17px;
+  border: 1px solid #e2e2e2;
+  background-color: #eee;
+  padding: 15px 30px;
+  border-radius: 3px;
+  font-size: 17px;
 }
 .toggle-button:focus {
-	outline: none;
-	box-shadow: 0 0 3px #ccc;
+  outline: none;
+  box-shadow: 0 0 3px #ccc;
 }
 .toggle-button.off {
-	background-color: #449d44;
-	border-color: #398439;
-	color: white;
+  background-color: #449d44;
+  border-color: #398439;
+  color: white;
 }
 .toggle-button.on {
-	background-color: #ec971f;
-	border-color: #d58512;
-	color: white;
+  background-color: #ec971f;
+  border-color: #d58512;
+  color: white;
 }
